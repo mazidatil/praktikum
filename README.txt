@@ -4,3 +4,4 @@ system requirement
 - php
 -mysql
 Redis
+phyton
