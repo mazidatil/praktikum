@@ -5,3 +5,4 @@ system requirement
 -mysql
 Redis
 phyton
+- Visual Studio Code
